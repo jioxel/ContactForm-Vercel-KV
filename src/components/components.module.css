@@ -1,0 +1,26 @@
+.fieldset{
+     border: none;
+     margin-bottom: 1rem;
+   }
+   
+.label{
+     display: block;
+     margin-bottom: 5px;
+   }
+   .input{
+     padding: 10px;
+     font-size: medium;
+     display: block;
+     border-radius: 10px;
+     margin: auto;
+   }
+   .button{
+     padding: 8px;
+     font-size: medium;
+     background: #fff;
+     border: 1px solid #000;
+     border-radius: 50px;
+   }
+   .button:hover{
+     background: #ebebeb;
+   }   
